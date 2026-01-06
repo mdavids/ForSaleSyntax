@@ -1,0 +1,5 @@
+{
+  "name": "For-Sale DNS Record Checker",
+  "description": "A utility to check and validate the syntax of `_for-sale` DNS TXT records for a given domain, based on the IETF draft `draft-davids-forsalereg-15`.",
+  "requestFramePermissions": []
+}
